@@ -31,4 +31,10 @@
         <mxCell id="CNzCqum64-IxNHnGtIyT-14" value="imprimir sin raíces" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="510" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CNzCqum64
+        <mxCell id="CNzCqum64-IxNHnGtIyT-16" value="FIN" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="590" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
